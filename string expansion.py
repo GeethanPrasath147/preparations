@@ -1,3 +1,4 @@
+#string expansion
 a=input()
 l=len(a)
 ans=""
